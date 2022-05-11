@@ -6,7 +6,7 @@ public class Employee{
     public static void main(String[] args){
 
     
-    String str[] ={"Chaitanya","Sushant","Ram","Vaibhav","Kirti"};
+    String str[] ={"Chaitanya","Sushant","Nayan","Vaibhav","Kirti"};
     String temp;
     System.out.println("Strings in sorted order");
     for (int j=0; j< str.length; j++){
